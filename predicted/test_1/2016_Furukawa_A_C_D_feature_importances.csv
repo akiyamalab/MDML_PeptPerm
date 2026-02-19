@@ -1,0 +1,94 @@
+,feature,importance
+13,density,0.08776562
+9,SlogP,0.04918291
+16,opr_nrot,0.04176374
+19,vsa_pol,0.02722127
+12,balabanJ,0.026928559
+28,dipole_sur,0.025025973
+24,E_sol_mem,0.023207532
+71,vsurf_ID8_sur - vsurf_ID8_wat,0.019448066
+47,vsurf_W8_wat,0.019348549
+81,vsurf_Wp7_mem - vsurf_Wp7_wat,0.017570253
+50,dE_vdw_mem - dE_vdw_sur,0.017406965
+6,PEOE_VSA-6,0.017025767
+2,GCUT_SLOGP_1,0.01632371
+72,vsurf_IW1_mem - vsurf_IW1_sur,0.015710367
+69,vsurf_ID6_mem - vsurf_ID6_wat,0.015609191
+32,npr2_wat,0.014956424
+66,vsurf_EDmin3_mem - vsurf_EDmin3_wat,0.014163757
+42,vsurf_ID8_sur,0.013946438
+34,vsurf_CW5_sur,0.012954609
+29,dipole_wat,0.012681822
+46,vsurf_IW8_wat,0.012655511
+70,vsurf_ID8_mem - vsurf_ID8_sur,0.0123300655
+30,npr2_mem,0.012215812
+38,vsurf_DW12_mem,0.0121394005
+43,vsurf_ID8_wat,0.011906607
+91,dih_emd_sur_wat,0.011904104
+4,PEOE_VSA-3,0.011786686
+85,LW_contacts_mem - LW_contacts_wat,0.011760474
+35,vsurf_DD12_mem,0.011216292
+45,vsurf_IW7_sur,0.011153504
+27,dipole_mem,0.011092225
+57,dipole_mem - dipole_wat,0.010618089
+55,E_sol_mem - E_sol_sur,0.010572636
+63,vsurf_CW3_sur - vsurf_CW3_wat,0.010386871
+60,npr2_mem - npr2_sur,0.010060725
+74,vsurf_IW1_sur - vsurf_IW1_wat,0.009794472
+40,vsurf_EDmin1_sur,0.009782723
+87,dih_cos_mem_sur,0.00976805
+51,max_p_axis_sur - max_p_axis_wat,0.009686007
+31,npr2_sur,0.009615354
+36,vsurf_DD12_sur,0.009513219
+15,mutagenic,0.009165528
+65,vsurf_DD13_sur - vsurf_DD13_wat,0.008982108
+90,dih_emd_mem_sur,0.008826294
+67,vsurf_HL1_mem - vsurf_HL1_sur,0.008695565
+73,vsurf_IW1_mem - vsurf_IW1_wat,0.008591668
+54,min_p_axis_mem - min_p_axis_sur,0.008282174
+64,vsurf_DD13_mem - vsurf_DD13_sur,0.008202732
+37,vsurf_DD23_wat,0.008198908
+44,vsurf_IW7_mem,0.008089373
+48,in_hbond_mem - in_hbond_wat,0.007859435
+68,vsurf_HL2_mem - vsurf_HL2_wat,0.00774832
+39,vsurf_DW12_wat,0.0077298316
+62,std_dim3_mem - std_dim3_sur,0.007655198
+17,opr_violation,0.007350756
+86,LW_contacts_sur - LW_contacts_wat,0.007302004
+82,vsurf_Wp8_sur - vsurf_Wp8_wat,0.007195718
+89,dih_cos_mem_wat,0.0071582
+77,vsurf_IW7_sur - vsurf_IW7_wat,0.007139858
+88,dih_cos_sur_wat,0.006917027
+84,LW_contacts_mem - LW_contacts_sur,0.006807983
+53,mid_p_axis_sur - mid_p_axis_wat,0.0067831106
+56,E_sol_mem - E_sol_wat,0.0066406815
+49,in_hbond_sur - in_hbond_wat,0.006542771
+41,vsurf_EDmin2_wat,0.0062339175
+92,dih_emd_mem_wat,0.006181968
+78,vsurf_IW8_mem - vsurf_IW8_sur,0.0061171562
+75,vsurf_IW2_mem - vsurf_IW2_wat,0.0060844067
+33,std_dim2_mem,0.0059070103
+7,SMR_VSA1,0.005809387
+52,mid_p_axis_mem - mid_p_axis_wat,0.005656628
+21,out_hbond_mem,0.0053882613
+79,vsurf_IW8_mem - vsurf_IW8_wat,0.005223012
+83,entropy_sur - entropy_wat,0.005148978
+58,dipole_sur - dipole_wat,0.005049721
+61,npr2_sur - npr2_wat,0.0049714
+59,glob_sur - glob_wat,0.0049690795
+80,vsurf_W8_sur - vsurf_W8_wat,0.004416992
+11,SlogP_VSA8,0.004297568
+1,GCUT_PEOE_0,0.0040117977
+23,r_p_axis_sur,0.00385674
+22,min_p_axis_mem,0.0037126045
+76,vsurf_IW2_sur - vsurf_IW2_wat,0.0036209999
+3,GCUT_SMR_1,0.003154518
+20,in_hbond_wat,0.0020101394
+18,rsynth,0.0011181238
+0,BCUT_PEOE_0,0.0009939134
+14,h_pstrain,0.0
+10,SlogP_VSA6,0.0
+8,SMR_VSA4,0.0
+26,E_stb_wat,0.0
+5,PEOE_VSA-4,0.0
+25,E_stb_sur,0.0

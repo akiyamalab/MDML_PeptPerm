@@ -1,0 +1,32 @@
+feature
+in_hbond_wat
+out_hbond_mem
+E_stb_sur
+E_stb_wat
+dipole_mem
+npr2_wat
+vsurf_IW8_mem
+mid_p_axis_mem - mid_p_axis_wat
+min_p_axis_mem - min_p_axis_sur
+dipole_sur - dipole_wat
+vsurf_EDmin1_mem - vsurf_EDmin1_sur
+vsurf_EDmin3_sur - vsurf_EDmin3_wat
+vsurf_HB3_sur - vsurf_HB3_wat
+vsurf_HL2_mem - vsurf_HL2_wat
+vsurf_ID6_mem - vsurf_ID6_wat
+vsurf_IW1_sur - vsurf_IW1_wat
+vsurf_IW7_sur - vsurf_IW7_wat
+vsurf_Wp8_mem - vsurf_Wp8_wat
+LW_contacts_mem - LW_contacts_wat
+dih_cos_mem_wat
+dih_emd_mem_sur
+PEOE_VSA-4
+SlogP
+SlogP_VSA6
+a_nS
+h_pstrain
+mutagenic
+opr_nring
+opr_nrot
+rsynth
+vsa_don
